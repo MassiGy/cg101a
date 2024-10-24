@@ -5,7 +5,6 @@
 
 ### Demo
 
-<video width="320" height="240" controls>
-  <source src="./anim.mp4" type="video/mp4">
-</video>
+
+https://github.com/user-attachments/assets/0bd81e99-7742-4f36-a44f-b485bd616e5c
 
